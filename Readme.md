@@ -3,7 +3,16 @@
 本项目基于安富莱（Armfly）教程移植，专门针对 **STM32H750** 配合 **W25Q64** 外部 Flash 进行了底层适配与性能优化。通过编译生成的 `.FLM` 文件，可直接用于 Keil MDK 的 Flash 下载。
 
 ---
+## 🔗 0. 参考资源与教学
 
+在开发过程中，以下资源提供了极大的帮助，也推荐给读者参考：
+
+* **[算法制作大全]** [https://github.com/cturvey/stm32extldr](https://github.com/cturvey/stm32extldr)
+    > *注：这是一个非常全面的第三方算法库。如果你的硬件管脚能与之对应上，可以直接拿来使用。*
+* **[安富莱参考案例]** [https://forum.anfulai.cn/forum.php?mod=viewthread&tid=101586](https://forum.anfulai.cn/forum.php?mod=viewthread&tid=101586)
+    > *本项目核心逻辑主要参考此贴进行移植。*
+
+---
 ## 📂 1. 项目目录结构讲解
 
 了解目录结构有助于快速定位修改点：
