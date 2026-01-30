@@ -10,7 +10,7 @@
 * **[算法制作大全]** [https://github.com/cturvey/stm32extldr](https://github.com/cturvey/stm32extldr)
     > *注：这是一个非常全面的第三方算法库。如果你的硬件管脚能与之对应上，可以直接拿来使用。*
 * **[安富莱参考案例]** [https://forum.anfulai.cn/forum.php?mod=viewthread&tid=101586](https://forum.anfulai.cn/forum.php?mod=viewthread&tid=101586)
-    > *本项目核心逻辑主要参考此贴进行移植。*
+    > *别人移植的案例。*
 
 ---
 ## 📂 1. 项目目录结构讲解
